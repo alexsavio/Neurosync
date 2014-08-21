@@ -5,8 +5,8 @@ Neurosync
 .. image:: https://badge.fury.io/py/neurosync.png
     :target: http://badge.fury.io/py/neurosync
 
-.. image:: https://travis-ci.org/mirenurteaga/neurosync.png?branch=master
-        :target: https://travis-ci.org/mirenurteaga/neurosync
+#.. image:: https://travis-ci.org/mirenurteaga/neurosync.png?branch=master
+#        :target: https://travis-ci.org/mirenurteaga/neurosync
 
 .. image:: https://pypip.in/d/neurosync/badge.png
         :target: https://pypi.python.org/pypi/neurosync
