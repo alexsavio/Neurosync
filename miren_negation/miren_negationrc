@@ -1,0 +1,5 @@
+[miren_negation:finn]
+root_dir: /home/alexandre/data/miren_negation
+segments_dir: ${root_dir}/segments
+
+[miren_negation]

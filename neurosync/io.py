@@ -4,7 +4,7 @@
 Classes and functions to load the EEG data.
 """
 
-class DataLoader(object):
+class EEGSubject(object):
     """
     Read the EEG data files and ...
     """
